@@ -35,8 +35,6 @@ ________________________________________________________________________________
 ________________________________________________________________________________________
 
 
-{% capture one %}
-
 # Readings 
 
 ## M. Lefebvre, “Can rationing rules for common resources impact self-insurance decisions,” Strategic Behavior and the Environment, vol. 3, no. 3, pp. 185–222, 2013.
@@ -44,11 +42,6 @@ ________________________________________________________________________________
 <div class="note"><a href="https://www.zotero.org/groups/kevin-m-smith/items/56BZRHB9">56BZRHB9</a></div>
 
 Check related articles. There may be something of interest here. 
-
-{% endcapture %}
-
-
-{% capture two %}
 
 ## A. B. Urken, “Introducing ‘Social Choice’ to Science and Engineering Students,” Teaching Political Science, vol. 5, no. 1, pp. 115–123, Oct. 1977.
 
@@ -83,8 +76,6 @@ Let me outline a few points:
 ### A way forward...
 
 So far the author does not appear to offer one. Perhaps look into a critique?
-
-{% endcapture %}
 
 
 ________________________________________________________________________________________
