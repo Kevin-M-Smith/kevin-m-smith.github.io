@@ -5,6 +5,7 @@
  categories: 
  tags:
  authors:
+ notes: ['56BZRHB9', '7QHMAG3V'] 
  version: built encuadernador v0.2
  
 --- 
@@ -60,6 +61,7 @@ I think that this is an interesting take, but it is not very informative. The fo
 There seems to be a contradiction here. Investigate later... (__page 5__)
 
 <div class="note"><a href="https://www.zotero.org/groups/kevin-m-smith/items/56BZRHB9">56BZRHB9</a></div>
+
 
 ### Contrarian Politics
 

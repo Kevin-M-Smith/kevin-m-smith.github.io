@@ -16,6 +16,12 @@
             {{ content }}
             </div>
             
+            {% for section in post.notes %}
+            <div class="post-content">
+            	{{section}}
+            </div>
+            {% endfor %}
+            
             {% if page.comments %}
             <div id="disqus_thread">
                 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
