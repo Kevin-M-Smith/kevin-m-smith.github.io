@@ -14,8 +14,14 @@
             {% endif %}
             <div class="post-content">
             {{ content }}
-            {{ content.one }}
-            {{ content.two }}
+            </div>
+            
+            <div class="post-content">
+                {{ one }}
+            </div>
+            
+            <div class="post-content">
+            	{{ two }}
             </div>
             {% if page.comments %}
             <div id="disqus_thread">

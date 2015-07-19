@@ -35,7 +35,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________
 
 
-{% capture content.one %}
+{% capture one %}
 
 # Readings 
 
@@ -48,7 +48,7 @@ Check related articles. There may be something of interest here.
 {% endcapture %}
 
 
-{% capture content.two %}
+{% capture two %}
 
 ## A. B. Urken, “Introducing ‘Social Choice’ to Science and Engineering Students,” Teaching Political Science, vol. 5, no. 1, pp. 115–123, Oct. 1977.
 
