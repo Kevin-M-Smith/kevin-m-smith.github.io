@@ -14,16 +14,8 @@
             {% endif %}
             <div class="post-content">
             {{ content }}
-            </div>
-            
-            {{ page.notes }}
-            
-            {% for section in page.notes %}
-            <div class="post-content">
-            	{{ section }}
-            </div>
-            {% endfor %}
-            
+            </div>            
+
             {% if page.comments %}
             <div id="disqus_thread">
                 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
@@ -32,6 +24,14 @@
             {% endif %}
             </div>
           </div>
+          
+        	{% for section in page.notes %}
+            <div class="post-content">
+            	{{ section }}
+            	<br>
+            </div>
+            {% endfor %}
+          
           <div class="pagination">
               {% if page.next %}
                 <a class="btn btn-default" href="{{ site.baseurl}}{{ page.next.url }}" class="next">Newer Post</a>
