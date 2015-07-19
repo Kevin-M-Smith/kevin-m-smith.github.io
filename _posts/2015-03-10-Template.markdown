@@ -5,7 +5,9 @@
  categories: 
  tags:
  authors:
- notes: ['56BZRHB9', '7QHMAG3V'] 
+ notes:
+  - 56BZRHB9
+  - 7QHMAG3V 
  version: built encuadernador v0.2
  
 --- 
